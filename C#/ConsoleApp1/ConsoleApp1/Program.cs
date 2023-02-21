@@ -55,27 +55,29 @@ using ConsoleApp1;
 // Console.WriteLine(today);
 
 ParamsPassing demo = new ParamsPassing();
-// int x = 30;
-// int y = 10;
-// string c = "hello";
-// Console.WriteLine($"Before calling passing by value method: x = {x}, y = {y}, c = {c}");
-// demo.PassingByValue(x, y, c);
-// Console.WriteLine($"After calling passing by value method: x = {x}, y = {y}, c = {c}");
+int x = 30;
+int y = 10;
+string c = "hello";
+Console.WriteLine($"Before calling passing by value method: x = {x}, y = {y}, c = {c}");
+demo.PassingByValue(x, y, c);
+Console.WriteLine($"After calling passing by value method: x = {x}, y = {y}, c = {c}");
+
+Console.WriteLine("-------");
+Console.WriteLine($"Before calling passing by reference method: x = {x}, y = {y}, c = {c}");
+demo.PassingByReference(ref x, ref y, ref c);
+Console.WriteLine($"After calling passing by reference method: x = {x}, y = {y}, c = {c}");
+
+// demo.AreaOfCircle(10);
+// demo.AreaOfCircle(10, 3);
 //
-// Console.WriteLine("-------");
-// Console.WriteLine($"Before calling passing by reference method: x = {x}, y = {y}, c = {c}");
-// demo.PassingByReference(ref x, ref y, ref c);
-// Console.WriteLine($"After calling passing by reference method: x = {x}, y = {y}, c = {c}");
+// string str;
+// Console.WriteLine(demo.IsAuthentic("Rebecca", "Antra123", out str));
+// Console.WriteLine(str);
+//
+//
+// Console.WriteLine(demo.AddNumbers(20,30));
+// Console.WriteLine(demo.AddNumbers(20,30,30,40));
 
-demo.AreaOfCircle(10);
-demo.AreaOfCircle(10, 3);
-
-string str;
-Console.WriteLine(demo.IsAuthentic("Rebecca", "Antra123", out str));
-Console.WriteLine(str);
-
-
-Console.WriteLine(demo.AddNumbers(20,30));
-Console.WriteLine(demo.AddNumbers(20,30,30,40));
+Console.WriteLine($"{{}}");
 
 //demo.AddThreeNumbers(1,2,3);
