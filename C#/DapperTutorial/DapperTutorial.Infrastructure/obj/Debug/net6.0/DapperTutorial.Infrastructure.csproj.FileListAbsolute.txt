@@ -1,0 +1,15 @@
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/bin/Debug/net6.0/DapperTutorial.Infrastructure.deps.json
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/bin/Debug/net6.0/DapperTutorial.Infrastructure.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/bin/Debug/net6.0/DapperTutorial.Infrastructure.pdb
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/bin/Debug/net6.0/DapperTutorial.Core.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/bin/Debug/net6.0/DapperTutorial.Core.pdb
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.csproj.AssemblyReference.cache
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.AssemblyInfoInputs.cache
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.AssemblyInfo.cs
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.csproj.CopyComplete
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/refint/DapperTutorial.Infrastructure.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/DapperTutorial.Infrastructure.pdb
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Infrastructure/obj/Debug/net6.0/ref/DapperTutorial.Infrastructure.dll

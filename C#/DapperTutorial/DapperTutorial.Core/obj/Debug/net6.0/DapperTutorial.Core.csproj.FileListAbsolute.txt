@@ -1,0 +1,12 @@
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/bin/Debug/net6.0/DapperTutorial.Core.deps.json
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/bin/Debug/net6.0/DapperTutorial.Core.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/bin/Debug/net6.0/DapperTutorial.Core.pdb
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.csproj.AssemblyReference.cache
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.AssemblyInfoInputs.cache
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.AssemblyInfo.cs
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.csproj.CoreCompileInputs.cache
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/refint/DapperTutorial.Core.dll
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/DapperTutorial.Core.pdb
+/Users/shiyunliu/Desktop/Antra/Feb2023/SQL/C#/DapperTutorial/DapperTutorial.Core/obj/Debug/net6.0/ref/DapperTutorial.Core.dll
